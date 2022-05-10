@@ -13,3 +13,7 @@ p {
   background: #F5F1FE;
   text-align: center;
 }
+
+.btn-branding {
+  color: var(--);
+}
