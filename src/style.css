@@ -81,6 +81,11 @@ p {
   padding: 60px 50px;
 }
 
+.Karrie-photo {
+  border-radius: 15px;
+width: 400px;
+height: 425px;}
+
 @media (max-width: 900px) {
   h1 {
     font-size: 44px;
